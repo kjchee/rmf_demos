@@ -78,9 +78,9 @@
   </group>
 
   <!-- Mutex Group Supervisor, manages the locking and unlocking of mutex groups -->
-  <group>
+  <!-- <group>
     <node pkg="rmf_fleet_adapter" exec="mutex_group_supervisor"/>
-  </group>
+  </group> -->
 
 
 </launch>
